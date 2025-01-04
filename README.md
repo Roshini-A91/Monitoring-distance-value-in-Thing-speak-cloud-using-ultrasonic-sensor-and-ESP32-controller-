@@ -98,7 +98,7 @@ Prototype and build IoT systems without setting up servers or developing web sof
 
  
 # PROGRAM:
-
+```
 #include "ThingSpeak.h"
 
 #include <WiFi.h>
@@ -197,17 +197,20 @@ void loop()
   delay(1000);
   
 }
-
+```
 # CIRCUIT DIAGRAM:
 
-![Screenshot 2024-12-26 182807](https://github.com/user-attachments/assets/4404e34b-c3a0-4e89-a2eb-21892e819659)
+
+![image](https://github.com/user-attachments/assets/4cd739f8-b1b6-4bc0-96a4-533457cbf670)
+
 
 # OUTPUT:
 
-![Screenshot 2024-12-26 182820](https://github.com/user-attachments/assets/52c49fd7-23ad-4f57-8276-804676ef54c9)
-![Screenshot 2024-12-26 182832](https://github.com/user-attachments/assets/a553ec0c-4e0d-4508-a896-ee34afecf9ec)
+![image](https://github.com/user-attachments/assets/17513940-b176-425e-a71d-0bc4fb890c6d)
+
+
+![image](https://github.com/user-attachments/assets/95c3d974-3d70-400e-8940-289f5eb0338f)
 
 
 # RESULT:
 Thus the distance values are updated in the Thing speak cloud using ESP32 controller.
-
