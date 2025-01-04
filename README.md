@@ -4,8 +4,6 @@ Reg No: 24002364
 
 # EXP-6:MONITORING DISTANCE VALUE IN THING SPEAK CLOUD USING ULTRASONIC SENSOR AND ESP32 CONTROLLER
 
-# Uploading ultrasonic sensor data in Thing Speak cloud
-
 # AIM:
 To monitor the distance of the obstacle in the Thing speak cloud using ultrasonic sensor and ESP32 controller.
 # Apparatus required:
